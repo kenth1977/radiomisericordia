@@ -1,0 +1,211 @@
+
+/*FUENTES*/
+    /*
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rammetto One', cursive;
+    font-family: 'Mukta Mahee', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'BioRhyme Expanded', serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Nanum Brush Script', cursive;
+    font-family: 'Nanum Pen Script', cursive;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Shrikhand', cursive;
+    font-family: 'Poiret One', cursive;
+    font-family: 'Cinzel', serif;
+    font-family: 'Josefin Slab', serif;
+    font-family: 'Courgette', cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Russo One', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Arima Madurai', cursive;
+    font-family: 'Julius Sans One', sans-serif;
+    font-family: 'Rancho', cursive;
+    font-family: 'Syncopate', sans-serif;
+    font-family: 'Parisienne', cursive;
+    font-family: 'Cinzel Decorative', cursive;
+    */
+/*FIN FUENTES*/
+
+
+/*ESTILOS DE PLANILLA*/
+  .titulos {
+    margin-top: 80px;
+    margin-bottom: 50px; 
+    }
+
+  .h1titulos {
+    margin-top: 80px;
+    margin-bottom: 50px;
+    font-family: 'Syncopate', sans-serif; 
+    }
+
+  .h2titulos{
+    font-size: 15px;
+    font-family: 'Cinzel Decorative', cursive;
+    color:#9D3D1C;
+    text-align: center;
+    }
+
+  @media (max-width: 700px) { 
+    .h1titulos {
+    margin-top: 80px;
+    margin-bottom: 50px; 
+    font-size: 25px
+    }
+  }
+
+  .header1contact {
+    margin-bottom: 50px; 
+  }
+
+  .section1contact {
+    font-size: 18px;
+    color: #A55E0A;
+    margin-bottom: 100px; 
+  }
+
+  ul.section1contact {
+    list-style: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none; 
+  }
+
+  ul.iniciofootermap {
+    list-style: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    font-size: 16px; 
+  }
+
+  li.lifootermap {
+    padding-bottom: 5px;
+    padding-left: 30px;
+    border-left: 2px solid #FAFAFA;
+    /* border-right: 1px solid #E6B00A */ 
+  }
+
+  /*Enlaces del footer*/
+  .iniciofootermap a{
+    color:#FFFFFF;
+    font-size: 16px;
+  }
+
+  /* MENU */
+  .navbar-expand-lg {
+    height: auto !important; 
+  }
+
+  .navbar-brand {
+    margin-left: 50px !important; 
+  }
+
+  .nav-item {
+    margin-left: 20px !important;
+    font-size: 18px !important;
+    border-left: 1px solid #A56900;
+    padding-left: 30px; 
+  }
+
+  .navbar-nav {
+    margin-left: 40px !important; 
+  }
+
+  .logofooter {
+    margin-top: 25px; 
+  }
+
+  .seccion {
+    margin-top: 100px; 
+  }
+
+  .footer {
+    background-color: #9D3D1C;
+    color: #FFFFFF;
+    padding: 20px 20px;
+    margin-top: 100px;
+    font-size: 11px; 
+  }
+
+  .contenido1 {
+    margin-top: 100px; 
+  }
+
+  .logo1 {
+    margin-top: 100px;
+    width: 30%; 
+  }
+
+  .contenido2 {
+    margin-top: 100px; 
+  }
+
+  /*# sourceMappingURL=main.css.map */
+
+  /*TARJETAS*/
+  .tarjetas{
+    font-size: 30px;
+  }
+
+  .fab{
+    font-size: 20px;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+
+  .desarrollo{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
+/*FIN ESTILOS DE PLANTILLA*/
+
+
+/*SOLO MODIFICAR ESTE CONTENIDO DEL INDEX*/  
+
+
+
+/*index*/
+.emblema h1{
+  font-family: 'Rammetto One', cursive;
+  color:#9D3D1C;
+  font-size: 25px; 
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  }
+
+.reproductor{
+   margin: auto;
+   padding-top: 50px;
+  }
+
+.info{
+  margin-top: 100px;
+}
+
+.headerpccr{
+  border-bottom: 1px solid #494949;
+}
+
+.infopccr{
+  /*display: flex;*/
+}

@@ -1,0 +1,73 @@
+body{
+	margin:0px;
+}
+
+.encabezado, .contenido, .lateral, .pie-pagina{
+		padding: 1em 2em;
+}
+
+.contenido, .lateral, .pie-pagina{
+	float: left;
+	box-sizing: border-box;
+
+}
+
+
+.encabezado{
+	background-color: rgb(247,220, 22);
+	height: 100px;
+}
+
+.contenido{
+	width: 60%;
+}
+
+.lateral{
+	width: 40%;
+	background-color: rgb(163,163,113);
+	height: 500px;
+}
+
+.post{
+	/*background-color: rgb(100, 100, 25);*/
+}
+
+.art_aside{
+	background-color: rgba(117,255,26,0.46);
+	height: 100px;
+	margin-bottom: 1em; /*16px*/
+}
+
+.pie-pagina{
+	width: 100%;
+	background-color: #000;
+	height: 50px;
+}
+
+@media screen and (min-width: 780px) and (max-width:1024px){
+
+.encabezado{
+	background-color: rgb(247,220, 22);
+	height: 100px;
+}	
+
+.pie-pagina{
+	width: 100%;
+	background-color: rgb(90,80, 60);
+	height: 50px;
+}	
+
+
+@media screen and (min-width: 480px) and (max-width:780px){
+	.encabezado{
+	background-color: red;
+	height: 100px;
+}
+
+
+
+@media screen and (max-width: 480px){
+	.encabezado{
+	background-color: green;
+	height: 100px;
+}

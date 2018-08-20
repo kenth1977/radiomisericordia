@@ -1,0 +1,11 @@
+.section1contact{
+	justify-content: flex-end;
+}
+
+
+@media (max-width: 600px) {
+  .section1contact{
+    font-size: 15px;
+    justify-content: flex-start;
+  }
+}

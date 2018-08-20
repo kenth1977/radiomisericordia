@@ -1,0 +1,306 @@
+body{
+	background-image: url(../img/1.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #464646;
+}
+
+
+form{
+
+	width: 450px;
+
+	margin: auto;
+
+
+
+	/*Este es el color de fondo*/
+
+	background: rgba(0,0,0,0.6);
+
+	padding: 10px 20px;
+
+
+
+	/*al ingresar el padding el ancho pasa a ser 490 y no 450 como se indica desde el width debido al padding para eso se corrige con el box-sizing para que invierta el padding a lo interno.*/
+
+	box-sizing:border-box;
+
+	margin-top: 20px;
+
+	border-radius: 10px;
+
+	border: 2px solid 
+
+	}
+
+
+
+h2{
+
+	color:#FFFFFF;
+
+	text-align: center;
+
+	margin: 0px;
+
+	font-size: 30px;
+
+	margin-bottom: 20px;
+
+	}
+
+
+
+input, textarea{
+
+	width: 100%;
+
+	margin-bottom: 20px;
+
+	padding: 7px;
+
+	box-sizing:border-box;
+
+	font-size: 17px;
+
+	border:none;
+
+	}
+
+
+
+textarea{
+
+	/*Controla la altura del textarea*/
+
+	min-height:100px;
+
+	max-height: 200px;
+
+
+
+	/*Controla el ancho del textarea*/
+
+	max-width: 100%;
+
+	min-height: 100%;
+
+	}
+
+
+
+	/*IDS*/
+
+
+
+#boton{
+
+	background: #31384a;
+
+	color:#fff;
+
+	padding:20px;
+
+	}
+
+
+
+#boton:hover{
+
+	cursor: pointer;
+
+	}
+
+
+
+@media (max-width:1024px){
+
+	form{
+
+		width:100%;
+
+		}
+
+	}
+
+
+
+.detalle{
+
+	margin-top: 20px;
+
+	background: rgba(20,20,0,0.8);
+
+	color:#242424;
+
+	padding: 10px 20px;
+
+	border-radius: 10px;
+
+	/*margin-top: -50px;*/
+
+}
+
+
+
+@media (max-width:480px){
+
+	.detalle{
+
+		margin-top: 20px;
+
+		background: rgba(20,20,0,0.8);
+
+		color:#242424;	
+
+		padding: 10px 20px;
+
+		border-radius: 10px;
+
+
+
+	}
+
+}
+
+
+
+.detalle1{
+
+	margin-top: 20px;
+
+	background: rgba(0,0,0,0.8);
+
+	color:#FFFFFF;
+
+	padding: 10px 20px;
+
+	border-radius: 10px;
+
+	font-size: 16px;
+
+}
+
+
+
+@media (max-width:480px){
+
+	.detalle1{
+
+		margin-top: 20px;
+
+		background: rgba(0,0,0,0.8);
+
+		color:#FFFFFF;
+
+		padding: 10px 20px;
+
+		border-radius: 10px;
+
+
+
+	}
+
+}
+
+
+
+.imgdetalle{
+
+	padding: 10px;
+
+	margin: 10px;
+
+}
+
+
+
+@media (max-width:480px){
+
+	.imgdetalle{
+
+	width: 60px;	
+
+	padding:0px;
+
+	margin: 0px;
+
+	}
+
+}
+
+
+
+.formulario{
+
+	margin-top: 20px;
+
+}
+
+
+
+.email{
+
+	font-size: 14px;
+
+}
+
+
+
+@media (max-width: 600px) {
+
+  .email{
+
+	font-size: 10px;
+
+	}
+
+}
+
+
+
+
+
+.text-form-1{
+
+	margin-top: -100px;
+
+	color: #FFFFFF;
+
+	font-size: 16px;
+
+}
+
+
+
+.img-logo{
+
+	margin-bottom: 50px;
+
+}
+
+
+
+@media (max-width: 600px) {
+
+  .img-logo{
+
+	margin-bottom: 60px;
+
+	}
+
+}
+
+.btn-info{
+	background-color: #4551D8 !important; 
+}
+
+.telefonos{
+	color: #5a989f !important;
+	margin-left: 25px;
+}
+
+

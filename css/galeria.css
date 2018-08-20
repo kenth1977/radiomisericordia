@@ -1,0 +1,18 @@
+.imagenesGals img{
+	margin: 10px 50px;
+}
+
+.imagenesGals img{
+	filter: grayscale(100%);
+	transition: 1s;
+	border-radius: 10px;
+}
+
+.imagenesGals img:hover{
+	filter: grayscale(0);
+	transform: scale(1.1);
+	box-shadow: 0px 0px 10px 0px;
+	border-radius: 0px;
+}
+
+	

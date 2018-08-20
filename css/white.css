@@ -1,0 +1,7 @@
+.lbox:target > img, .lbox:target > div {
+    border: 5px solid white;
+}
+.lbox > a {
+    background: url(../img/icons/close1x.png) no-repeat center center white;
+}
+

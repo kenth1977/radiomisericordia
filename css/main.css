@@ -1,0 +1,75 @@
+.titulos {
+  margin-top: 80px;
+  margin-bottom: 50px; }
+
+.header1contact {
+  margin-bottom: 50px; }
+
+.section1contact {
+  font-size: 18px;
+  color: #A55E0A;
+  margin-bottom: 100px; }
+
+ul.section1contact {
+  list-style: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none; }
+
+ul.iniciofootermap {
+  list-style: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  font-size: 16px; }
+
+li.lifootermap {
+  padding-bottom: 5px;
+  padding-left: 40px;
+  border-left: 1px solid #E6B00A;
+  /* border-right: 1px solid #E6B00A */ }
+
+/* MENU */
+.navbar-expand-lg {
+  height: auto !important; }
+
+.navbar-brand {
+  margin-left: 50px !important; }
+
+.nav-item {
+  margin-left: 20px !important;
+  font-size: 18px !important;
+  border-left: 1px solid #A56900;
+  padding-left: 30px; }
+
+.navbar-nav {
+  margin-left: 40px !important; }
+
+.logofooter {
+  margin-top: 25px; }
+
+.seccion {
+  margin-top: 100px; }
+
+.footer {
+  background-color: #3D3D3D;
+  color: #FFFFFF;
+  padding: 20px 20px;
+  margin-top: 100px;
+  font-size: 11px; }
+
+.contenido1 {
+  margin-top: 100px; }
+
+.logo1 {
+  margin-top: 100px;
+  width: 30%; }
+
+.contenido2 {
+  margin-top: 100px; }
+
+/*# sourceMappingURL=main.css.map */
