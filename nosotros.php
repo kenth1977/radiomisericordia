@@ -1,10 +1,18 @@
 <?php include 'header.php'; ?>
 <?php include 'navbar.php'; ?>
 
-<div class="galeria">
+
 
 <div class="container titulos">
-		<h1 class="text-center h1titulos">Nosotros</h1>
+	<h1 class="text-center h1titulos">EQUIPO DE TRABAJO</h1>
+</div>
+
+<?php include 'avatars.php'; ?>
+
+<?php include 'misionvision.php'; ?>
+
+<div class="container titulos">
+		<h1 class="text-center h1titulos">NOSOTROS</h1>
 		<h2 class="h2titulos">Dos años al servicio de la comunidad por medio del Internet, llegando a todos los rincones del mundo.</h2>
 </div>
 
@@ -35,15 +43,17 @@
 		</p>
 	</div>
 
-	<div class="col-xs-12 col-sm-6">
-		<img src="img/divmiseri.jpg" alt="" width="100%">
-	</div>
+		<div class="col-xs-12 col-sm-6">
+			<img src="img/divmiseric.jpg" alt="" width="100%">
+		</div>
+		
 	</div>
 </div>
+
 
 
 
 
 <?php include 'footer.php'; ?>
 
-</div>
+

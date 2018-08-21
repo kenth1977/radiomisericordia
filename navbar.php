@@ -14,7 +14,7 @@
           <a class="nav-link lang" key="nosotros"  href="nosotros.php">Nosotros</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link lang" key="Reservacion"  href="grupos.php">Programas</a>
+          <a class="nav-link lang" key="Reservacion"  href="programas.php">Programas</a>
         </li>
         <li class="nav-item">
           <a class="nav-link lang" key="Contactanos"  href="dgac.php">Colaboradores</a>

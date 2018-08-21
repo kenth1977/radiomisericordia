@@ -14,18 +14,37 @@
 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
+    
     <div class="carousel-item active">
       <img class="d-block w-100" src="img/entodas.jpg" alt="sliders">
     </div>
+    
     <div class="carousel-item">
       <img class="d-block w-100" src="img/rm2.jpg" alt="sliders">
     </div>
+   
     <div class="carousel-item">
       <img class="d-block w-100" src="img/rm3.jpg" alt="sliders">
     </div>
 
     <div class="carousel-item">
       <img class="d-block w-100" src="img/rm4.jpg" alt="sliders">
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/rm5.jpg" alt="sliders">
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/rm6.jpg" alt="sliders">
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/rm7.jpg" alt="sliders">
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/rm8.jpg" alt="sliders">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
