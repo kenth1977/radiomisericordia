@@ -41,8 +41,8 @@
 
         <p>© 2018. All rights reserved. Radio Misericordia Juvenil Costa Rica <br>
         (+506) 83754030 <br>
-        <a href="www.radiomisericordiaj.com">www.radiomisericordiaj.com</a><br>
-        Diseñador: Kenneth Ruiz | kenth1977@gmail.com | 86227500
+        <a class="enlacefooter" href="www.radiomisericordiaj.com">www.radiomisericordiaj.com</a><br>
+        Diseñador: Kenneth Ruiz | kenth1977@gmail.com | 86227500 <img src="img/webdesign80x80.png" alt="" width="40px">
         </p>
       </div>
     </div>

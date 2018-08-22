@@ -14,16 +14,8 @@
           </div>  -->
 <!-- FIN HORA-->
 
-	
-<div class="container">
-	<div class="row ">
-		<div class="reproductor ">
-			<div class="col-xs-12">
-				<a href="http://78.129.234.163:6403/;.mp3/;stream.nsv" target="popup" onclick="window.open(this.href, this.target, 'location=no,width=400,height=200,resizable=no,scrollbars=no' ); return false;"><img src="img/reproductor.png" alt="" width="150px"></a>
-			</div>
-		</div>
-	</div>
-</div>
+
+<?php include 'reproductor.php'; ?>
 
 <div class="container">
 	<div class="col-sm-12">

@@ -145,6 +145,12 @@
     font-size: 11px; 
   }
 
+  .enlacefooter{
+    color:#D5FB00;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif; 
+  }
+
   .contenido1 {
     margin-top: 100px; 
   }
@@ -241,17 +247,33 @@
   filter: grayscale(30%); 
   }
 
+  @media only screen and (max-width: 575px) {
+    .tarjeta img{
+      margin-top: 10px;
+      width: 122px;
+      border-radius: 100%;
+      opacity: 1;
+    }
+
+    .tarjeta img:hover{
+      width: 120px;
+      border-radius: 20px 20px 20px 20px;
+      box-shadow: 0px 0px 5px 0px;
+      opacity: 1;
+    }
+}
 
 .misionvision{
   margin-top: 80px;
-  background-color: #E0E0E0;
+  background-color: #9D3D1C;
+  color:#FFFFFF;
   padding: 20px;
   box-shadow: 0px 0px 2px 0px;
   }
 
 /*mv= mision vision*/
 .bordemv{
-   border-right: 1px solid #464646; 
+   border-right: 1px solid #FFFFFF; 
   }
 
   @media only screen and (max-width: 575px) {
@@ -269,3 +291,46 @@
   color: #717171;
   font-size: 12px;
 }
+
+ 
+    @media only screen and (max-width: 575px) {
+      .sabados{
+        background-color:#EEEDED; 
+        box-shadow: 0px 0px 2px 0px;
+        color: #000000; 
+        padding-top: 40px;
+        /*border-top: 1px solid #AEAEAE;*/
+        /*border-bottom: 1px solid #AEAEAE;*/
+        margin-top: 40px;
+        margin-bottom: 40px;
+        } 
+    } 
+
+/*REPRODUCTOR RADIO*/
+
+.player{
+  display: flex;
+  justify-content: center;
+  margin:auto;
+  width: 100%;
+  background-color: red;
+  padding-top: 60px; 
+  }
+
+.btnplay{
+  background-color: #FF9600;
+  border-radius: 100px;
+  width: 100px;
+  height: 100px;
+  font-size: 25px;
+  color:#FFFFFF;
+  }
+
+.btnpause{
+  background-color: red;
+  border-radius: 100px;
+  width: 80px;
+  height: 80px;
+  font-size: 14px;
+  color:#FFFFFF;
+  }

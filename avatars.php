@@ -34,7 +34,7 @@
                 <img class="mx-auto d-block" src="img/gi.jpg" class="img-fluid" alt="Responsive image">
                 <h4 class="text-center">Gina Sanabria</h4>
                  <hr>
-                <p class="text-center">Desaunando con Jesús<br>
+                <p class="text-center">Desayunando con Jesús<br>
                     <small>
                         <em>Misioneros de tu misericordia</em><br>
                         <em>Entre amigos</em>
