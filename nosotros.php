@@ -30,16 +30,16 @@
 
 		<p>Cada uno de  los diversos colaborados empezamos a explorar y aprender  todas  las  necesidades  y  formas  más efectivas de llevar a Jesucristo a través de este medio y redes sociales.</p>
 
-		<p>Después  de  estar  al  aire  por  dos años hemos visto como la radio a ido creciendo por  la bendición de Dios y de los oyentes que nos  acompañan  a  través  de  los  diversos programas de evangelización,  por  la  Guia  Espiritual de Sacerdotes que nos ayudan en el acompañamiento y dirección de la misma.</p>
+		<p>Después  de  estar  al  aire  por  dos años hemos visto como la radio a ido creciendo por  la bendición de Dios y de los oyentes que nos  acompañan  a  través  de  los  diversos programas de evangelización,  por  la  Guía  Espiritual de Sacerdotes que nos ayudan en el acompañamiento y dirección de la misma.</p>
 
-		<p>Hoy podemos  ver  las maravillasa gracia de Dios y el apoyo de los diversos  colaboradores,  Radio  Misericordia  Juvenil,  cubre una gran parte de la evangelización de nuestro país como fuera de ella.</p>
+		<p>Hoy podemos  ver  las maravillas gracia de Dios y el apoyo de los diversos  colaboradores,  Radio  Misericordia  Juvenil,  cubre una gran parte de la evangelización de nuestro país como fuera de ella.</p>
 
-		<p>Y ahora, por medio del internet   y nuevas plataformas sociales como   los   teléfonos   inteligentes,    ¡ la   Nueva   Vida  está alcanzando a más oyentes alrededor del mundo!
-		¡A Dios sea la gloria, por las grandes cosas que El ha hecho!</p>
+		<p>Ahora, por medio del internet y nuevas plataformas sociales como   los   teléfonos   inteligentes, la nueva vida  está alcanzando a más oyentes alrededor del mundo
+		A Dios sea la gloria, por las grandes cosas que El ha hecho!</p>
 
 		<p class="text-justify">
 			<strong >Radio Misericordia Juvenil <br>
-			"Una Señal que viene de los Alto"</strong>
+			"Una Señal que viene de lo Alto"</strong>
 		</p>
 	</div>
 

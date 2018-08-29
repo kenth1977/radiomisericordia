@@ -1,6 +1,12 @@
   <div class="container-fluid footer">
     <div class="row">
 
+      <div class="container">
+        <div class="col-xs-12">
+          <h3 class="text-center"><small>Radio Católica en línea</small></h3>
+        </div>
+      </div>
+
       <div class="col-xs-12 col-sm-4">
         <ul class="iniciofootermap">
           <li class="lifootermap"><a href="/" class="lang" key="Inicio">Inicio</a></li>
@@ -8,6 +14,7 @@
           <li class="lifootermap"><a href="grupos.php" class="lang" key="Reservacion">Programas</a></li>
           <li class="lifootermap"><a href="dgac.php" class="lang" key="Contactanos">Colaboradores</a></li>
           <li class="lifootermap"><a href="formulario.php" class="lang" key="Contactanos">Contactanos</a></li>
+          <li><?php echo"<b> $b <small>Personas ingresaron a</small> radiomisericordiaj.com </b>";?></li>
         </ul>
       </div>
 
@@ -19,8 +26,7 @@
     
     
       <div class="col-xs-12 col-sm-4">
-          <img src="img/crflag.png" class="mx-auto d-block img-responsive" alt="" width="40%">
-
+          
           <br>
      
           
@@ -41,7 +47,8 @@
 
         <p>© 2018. All rights reserved. Radio Misericordia Juvenil Costa Rica <br>
         (+506) 83754030 <br>
-        <a class="enlacefooter" href="www.radiomisericordiaj.com">www.radiomisericordiaj.com</a><br>
+        Radio Católica en Línea <br> 
+        <!-- <a class="enlacefooter" href="http://radiomisericordiaj.com/index.php">radiomisericordiaj.com</a><br> -->
         Diseñador: Kenneth Ruiz | kenth1977@gmail.com | 86227500 <img src="img/webdesign80x80.png" alt="" width="40px">
         </p>
       </div>

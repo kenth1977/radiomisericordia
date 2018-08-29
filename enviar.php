@@ -26,7 +26,7 @@ if(empty($_REQUEST['nombre']) || empty($_REQUEST['email']) || empty($_REQUEST['a
 
         //CORREO DESTINO
 
-        $cor="kenth1977@gmail.com";
+        $cor="radiomisericordiajuvenil@gmail.com  ";
 
         
 
@@ -42,7 +42,7 @@ if(empty($_REQUEST['nombre']) || empty($_REQUEST['email']) || empty($_REQUEST['a
 
         //Mail del sitio
 
-        $de .="From: Hotel El Sueño Dorado & Hotspring <kenth1977@gmail.com>\r\n";
+        $de .="From: Radio Misericordia Juvenil C.R. <radiomisericordiajuvenil@gmail.com  >\r\n";
 
         
 
@@ -74,7 +74,7 @@ if(empty($_REQUEST['nombre']) || empty($_REQUEST['email']) || empty($_REQUEST['a
 
                     <hr>
 
-        <a http://cabinaslossantillos.com' target='_blank'>info@hotelsuenodorado.com
+        <a http://radiomisericordiaj.com' target='_blank'>radiomisericordiajuvenil@gmail.com  
 
                 ";
 
@@ -88,7 +88,7 @@ if(empty($_REQUEST['nombre']) || empty($_REQUEST['email']) || empty($_REQUEST['a
 
         //SCRIPT DE CONFIRMACIÓN
 
-        echo "<script>alert(\"Su mensaje ha sido enviado, gracias por contactarme, pronto estare respondiendo su mensaje.\\n|| Hotel El Sueño Dorado & Hotspring ||\");</script>";
+        echo "<script>alert(\"Su mensaje ha sido enviado,  pronto estaremos respondiendo su mensaje.\\n|| Gracias por contactarnos. Radio Misericordia Juvenil de Costa Rica ||\");</script>";
 
         echo "<script> window.location='formulario.php';</script>";
 

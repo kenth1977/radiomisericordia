@@ -9,7 +9,7 @@
 	</div>
 	<div class="col-xs-12 col-sm-6">
 		<h3>VISIÓN</h3>
-		<p>Llevar la palabra del Señor en nuestro país y fuera de el por medio del internet, más que esto que llegue a cada corazón y sea un medio por el cuál Dios sea conocido y realmente alabado. Nos mueve el evangelizar y ser de alguna manera pregoneros de las maravillas de Jesucristo por medio de su iglesia.</p>
+		<p>Llevar la palabra del Señor en nuestro país y fuera de el por medio del internet, para que llegue a cada corazón siendo un medio digital por el cuál Dios sea conocido y realmente alabado. Nos mueve el evangelizar y ser de alguna manera pregoneros de las maravillas de Jesucristo por medio de su iglesia.</p>
 	</div>
 	</div>
 	</div>

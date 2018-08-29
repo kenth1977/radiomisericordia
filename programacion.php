@@ -61,7 +61,7 @@
           <hr>
         </span>
          
-        <li><span class="text-danger">11:00 am...</span> Hoy es un Gran Día (Carlos Canseco y Elsi)</li>
+        <li><span class="text-danger">11:00 am...</span> <img src="img/thumbnail.png " width="20px;" alt="" class="img-responsive"> Hoy es un Gran Día (Carlos Canseco y Elsi)</li>
 
          <span class="d-block d-sm-none">
           <hr>
@@ -154,7 +154,7 @@
         <hr>
       </span>
 
-      <li><span class="text-danger">7:00 pm...</span> <img src="img/thumbnail.png " width="20px;" alt="" class="img-responsive"> Entre Amigos (Gina Sanbria y Kenneth Castro.)</li>
+      <li><span class="text-danger">7:00 pm...</span> <img src="img/thumbnail.png " width="20px;" alt="" class="img-responsive"> Hagamos lío </li>
 
         <div class="dias">
         <!-- --Lunes:  Hits Católicos desde Guatemala. <br> -->
@@ -187,10 +187,10 @@
 
     <li><span class="text-danger">8:00 pm...</span>Temas Variados</li>
       <div class="dias">
-        --Lunes:  Lunes: Iglesia en Red (Mary Madrigal y Way Herrera). <br>
+        --Lunes: Iglesia en Red (Mary Madrigal y Way Herrera). <br>
         --Martes: En Todas (Kenneth Castro). <br>
         --Miercoles: Tu Desides conducido (Juan José).<br>
-        --Jueves: Kerigmatizando (Johnny Sánchez).<br>
+        --Jueves: Iglesia en Red (Mary Madrigal y Way Herrera).<br>
         --Viernes:  Hits Católicos desde Guatemala.<br>
         --Sábado:  Espacio Musical.
       </div>
@@ -241,7 +241,7 @@
           <hr>
         </span>
          
-        <li><span class="text-danger">11:00 am...</span> Hoy es un Gran Día (Carlos Canseco y Elsi)</li>
+        <li><span class="text-danger">11:00 am...</span> Espacio musical</li>
 
          <span class="d-block d-sm-none">
           <hr>
@@ -261,7 +261,7 @@
           <hr>
         </span>
          
-        <li><span class="text-danger">1:00 pm...</span>Recargate
+        <li><span class="text-danger">1:00 pm...</span>Recárgate
         </li>
 
         <span class="d-block d-sm-none">

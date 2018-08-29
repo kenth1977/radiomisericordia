@@ -20,7 +20,7 @@
 				
  			<p class="text-justify">Cumplimos dos años al servicio  de  la  Iglesia Católica    de    Costa Rica,  y  el  mundo por medio       de     Radio Misericordia Juvenil.</p>
 			
-			<p class="text-justify">Somos un grupo de amigos que llegamos a ser parte de una gran familia con una Obra de Misericordia con diversos carismas y talentos que están al servicio de la Iglesia.</p>
+			<p class="text-justify">Somos un grupo de amigos que llegamos a ser parte de una gran familia, unidos en una Obra de Misericordia, con diversos carismas y talentos para al servicio de la Iglesia.</p>
 
  			<p class="text-justify">Si desea realizar una consulta o sugerencia puede escribirnos o llamar al <strong>(506)8375-4030 de Lunes a Viernes de 8:00 am a 5:00 pm,</strong> también puedes dejar un mensaje en nuestro perfil de Facebook. </p>
 
@@ -29,7 +29,7 @@
 				
 		<div class="col-xs-12 col-md-6">	
 			<form action="enviar.php" method="post"  class="animated fadeInUpBig form">
-					<h2>Contactanos</h2>
+					<h2>Contáctanos</h2>
 				<input type="text" name="nombre" id="nombre" placeholder="*nombre" class="form-control"  required >
 				<input type="email" name="email" id="email" title="Solo digite correos electrónicos (Obligatorio)" placeholder="*su email" class="form-control" required>
 				<input type="tel" name="telefono" title="Los números telefonicos en Costa Rica son de 8 dígitos"   placeholder="telefono" id="telefono" class="form-control" onkeypress="return solonumeros(event);" minlenght="8" maxlength="8">

@@ -6,24 +6,67 @@
     <h1 class="text-center h1titulos">NUESTRA ALIANZA</h1>
 </div>
 
-
-
-
-
 <div class="container">
+        <p>Nuestra alianza es la unión de colaboradores que hacen posible esta obra y que forman parte de nuestra familia de Radio Misericordia Juvenil. Únete a nosotros y ayudanos a llevar la evangelización a toda nuestra nación y el mundo.</p>
+</div>
+
+
+
+
+<div class="container aliados">
     <div class="row">
-        <div class="col-xs-12 col-sm-6">
             
+            <div class="col-xs-12 col-sm-3">
+                <a href="https://www.aciprensa.com/"><img  src="img/aciprensa.jpg" class="img-fluid mx-auto d-block" alt="Responsive image" ></a>
+            </div>
+            <div class="col-xs-12 col-sm-3">
+                <a href="https://www.facebook.com/ARCAIBEROAMERICA/"><img  src="img/arca.jpg" class="img-fluid mx-auto d-block" alt="Responsive image" ></a>
+            </div>
+            <div class="col-xs-12 col-sm-3">
+                <a href="https://kerigmadigital.wixsite.com/kerigmadigital"><img  src="img/kerigma.jpg" class="img-fluid mx-auto d-block" alt="Responsive image" ></a>
+            </div>
+            <div class="col-xs-12 col-sm-3">
+                <a href="http://www.ewtn.com/espanol/"><img  src="img/ewtn.jpg" class="img-fluid mx-auto d-block" alt="Responsive image" ></a>
+            </div>
+     </div>
+</div>
+
+<br>
+<div class="container aliados">
+    <div class="row">
+        <div class="col-xs-12 col-sm-3">
+            <a href="https://www.facebook.com/Kyrioscr/"><img  src="img/kyrios.jpg" class="img-fluid mx-auto d-block" alt="Responsive image" ></a>
         </div>
-        <div class="col-xs-12 col-sm-6">
-            
+        <div class="col-xs-12 col-sm-3">
+            <a href="http://www.redderadioscatolicas.org/"><img  src="img/rrc.jpg" class="img-fluid mx-auto d-block" alt="Responsive image" ></a>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+            <a href="https://www.facebook.com/boutiquemarysellacr/"><img  src="img/marysella.jpg" class="img-fluid mx-auto d-block" alt="Responsive image" ></a>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+            <a href="http://www.televid.tv/"><img  src="img/televid.png" class="img-fluid mx-auto d-block" alt="Responsive image" ></a>
         </div>
     </div>
 </div>
 
 
 
-
+<div class="container aliados">
+    <div class="row">
+        <div class="col-xs-12 col-sm-3">
+            <a href="https://www.facebook.com/kyrieproductos1"><img  src="img/kyrye.jpg" class="img-fluid mx-auto d-block" alt="Responsive image " ></a>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+            <a href="https://www.facebook.com/iglesiaenredcr/?fb_dtsg_ag=AdzYMZyMpaazBnXH2yMLt9MqiUSdtoj_orYqRhS5gi1Beg%3AAdyX2xhF68GsCvm-VGILr9Bepp5lJYgVJUPW7qIxhunAug"><img  src="img/iglered.jpg" class="img-fluid mx-auto d-block" alt="Responsive image" ></a>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+            <a href="https://www.facebook.com/Brincolin-Costa-Rica-1628075814103233/?ref=br_tf"><img  src="img/brincolin.png" class="img-fluid mx-auto d-block" alt="Responsive image" ></a>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+            <a href="https://www.facebook.com/HagamosIglesia/"><img  src="img/hagamosiglesia.png" class="img-fluid mx-auto d-block" alt="Responsive image" ></a>
+        </div>
+    </div>
+</div>
 
 
 

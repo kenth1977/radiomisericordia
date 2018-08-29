@@ -6,7 +6,7 @@
                 <h4 class="text-center">Carol Herrera S.</h4>
                 <hr>
                 
-                <p class="text-center">Revista de vida<br>
+                <p class="text-center">Revista Actualidad<br>
                     <small>
                         <em>Evangelio de Cada día</em><br>
                         <em>Misioneros de tu misericordia</em>
@@ -112,7 +112,8 @@
                  <hr>
                 <p class="text-center">Locutor<br>
                     <small>
-                       <br><br>
+                       <em>Recárgate</em><br>
+                       <em>Revista Actualidad</em><br><br>
                     </small>    
                 </p>
             </div>
@@ -157,6 +158,19 @@
                 <p class="text-center">Locutor<br>
                     <small>
                        <em>Iglesia en Red</em><br><br>
+                    </small>    
+                </p>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-4">
+            <div class="tarjeta">
+                <img class="mx-auto d-block" src="img/kennethr.jpg" class="img-fluid" alt="Responsive image">
+                <h4 class="text-center">Kenneth Ruiz</h4>
+                   <hr>
+                <p class="text-center">Colaborador<br>
+                    <small>
+                        <em>Animation 3d Specialist</em><br>
+                       <em>Web Designer</em><br><br>
                     </small>    
                 </p>
             </div>
